@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Miga Real ERP",
+  "description": "Sistema integral de gestión para sandwicherías de miga con módulos de ventas, producción B2B y contabilidad.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
